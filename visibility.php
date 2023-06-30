@@ -23,7 +23,7 @@ class Sapa {
 
 class Salam extends Sapa{
     public function show(){
-        echo $this-sayHello();
+        // echo $this-sayHello();
     }
 
 
